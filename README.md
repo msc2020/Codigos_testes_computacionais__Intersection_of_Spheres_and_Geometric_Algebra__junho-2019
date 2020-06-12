@@ -42,7 +42,7 @@ proposta.
 https://github.com/jlaragonvera/Geometric-Algebra
 https://arxiv.org/abs/0810.2412
 
-(2) Utilizamos ainda a seguinte implementação para o algoritmo MDGP, em sua versão em álgebra linear:
+(2) Utilizamos ainda a seguinte implementação para o algoritmo BP, em sua versão para álgebra linear:
 https://github.com/michaelsouza/bioinfo/blob/master/codes/IMPA2017/mdgp.nb
 
 
