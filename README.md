@@ -20,7 +20,7 @@ proposta.
 
 ## DESCRIÇÃO DOS CÓDIGOS:
 
-#3 - Testes com instânciaS artificiais (não vindas de experimentos NMR).
+#3 - Testes com instâncias artificiais (não vindas de experimentos NMR).
 
 #4 - Contém mais de 20 testes, onde fomos gradualmente aumentando a dificuldade dos testes.
 
