@@ -1,7 +1,7 @@
 # Códigos para o Wolfram Mathematica desenvolvidos ao longo da tese de doutorado na Unicamp
 
 # Título da tese: Interseção de Esferas e Álgebra Geométrica
-# autor: Marcelo Santos Carielo, Campinas
+# autor: Marcelo Santos Carielo
 # Campinas, junho de 2019
 
 
