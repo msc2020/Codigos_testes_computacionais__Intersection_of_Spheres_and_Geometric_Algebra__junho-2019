@@ -1,14 +1,18 @@
-# Códigos para o Wolfram Mathematica desenvolvidos ao longo da tese de doutorado na Unicamp
+## Códigos para o Wolfram Mathematica desenvolvidos ao longo da tese de doutorado na Unicamp
 
-# Título da tese: Interseção de Esferas e Álgebra Geométrica
-# autor: Marcelo Santos Carielo
-# Campinas, junho de 2019
+## Título da tese: Interseção de Esferas e Álgebra Geométrica
+## autor: Marcelo Santos Carielo
+## Campinas, junho de 2019
 
 
-## Link para download no repositório de teses da Unicamp:
-## http://repositorio.unicamp.br/jspui/handle/REPOSIP/334844
+### Link para download no repositório de teses da Unicamp:
+### http://repositorio.unicamp.br/jspui/handle/REPOSIP/334844
 
-## Resumo:
+Link para download no Research Gate:
+### https://www.researchgate.net/publication/341781590_Intersecao_de_Esferas_e_Algebra_Geometrica
+
+
+### Resumo:
 
 O problema de interseção de esferas aparece em diferentes aplicações da geometria de
 distâncias. Esferas cujos raios são intervalares têm especial interesse quando os dados
@@ -18,25 +22,25 @@ esferas e cascas esféricas. Comparamos os resultados obtidos com a abordagem cl
 baseada na álgebra linear, e fizemos experimentos computacionais para validar a abordagem
 proposta.
 
-## DESCRIÇÃO DOS CÓDIGOS:
+### DESCRIÇÃO DOS CÓDIGOS:
 
-#3 - Testes com instâncias artificiais (não vindas de experimentos NMR).
+##3 - Testes com instâncias artificiais (não vindas de experimentos NMR).
 
-#4 - Contém mais de 20 testes, onde fomos gradualmente aumentando a dificuldade dos testes.
+##4 - Contém mais de 20 testes, onde fomos gradualmente aumentando a dificuldade dos testes.
 
-#5 - Testes com a versão do BP via AGC proposta na tese. Há um exemplo comparando o BP via AGC e clássico para n=10, ..., 100.
+##5 - Testes com a versão do BP via AGC proposta na tese. Há um exemplo comparando o BP via AGC e clássico para n=10, ..., 100.
 
-#6 - Testes com respeitos às dificuldades do pacote clifford.m e CliffordBasic.m em termos de precisão.
+##6 - Testes com respeitos às dificuldades do pacote clifford.m e CliffordBasic.m em termos de precisão.
 
-#7 - Testes com respeitos às dificuldades do pacote clifford.m.
+##7 - Testes com respeitos às dificuldades do pacote clifford.m.
 
-#8 - Teste simles sobre interseção via AGC onde se escolhe a quantidade de esferas e dimensões.
+##8 - Teste simles sobre interseção via AGC onde se escolhe a quantidade de esferas e dimensões.
 
-#9 - Novos testes comparando a abordagem clássica e a via AGC, proposta na tese.
+##9 - Novos testes comparando a abordagem clássica e a via AGC, proposta na tese.
 
 
 
-## OBSERVAÇÕES:
+### OBSERVAÇÕES:
 
 (1) Nos códigos desenvolvidos utilizamos o pacote para AGC denominado *clifford.m* 
 https://github.com/jlaragonvera/Geometric-Algebra
